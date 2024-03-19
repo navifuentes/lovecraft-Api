@@ -165,33 +165,38 @@
     "id": 33
   },
   {
+    "race": "spiders of leng",
+    "category": "great independent race",
+    "id": 34
+  },
+  {
     "race": "star spawns of cthulhu",
     "category": "great servitor race",
-    "id": 34
+    "id": 35
   },
   {
     "race": "star vampire",
     "category": "lesser independent race",
-    "id": 35
+    "id": 36
   },
   {
     "race": "tcho-tchos",
     "category": "lesser servitor race",
-    "id": 36
+    "id": 37
   },
   {
     "race": "voormis",
     "category": "lesser servitor race",
-    "id": 37
+    "id": 38
   },
   {
     "race": "yaddithians",
     "category": "lesser independent race",
-    "id": 38
+    "id": 39
   },
   {
     "race": "zoogs",
     "category": "lesser independent race",
-    "id": 39
+    "id": 40
   }
 ]

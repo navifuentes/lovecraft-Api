@@ -4,7 +4,7 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 1,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/'umr-at-tawil.jpg"],
     "name": "'umr at-tawill",
     "nicks": [
       "the most ancient one",
@@ -20,7 +20,10 @@
     "canon": "Lovecraft's Circle",
     "category": "outer god",
     "id": 2,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/abhoth.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/abhoth2.jpg"
+    ],
     "name": "abhoth",
     "nicks": ["the source of uncleanliness"],
     "overview": "A grayish, horrid mass that nearly choked it from rim to rim... Here, it seemed, was the ultimate source of all miscreation and abomination. For the gray mass quobbed and quivered, and swelled perpetually; and from it, in manifold fission, were spawned the anatomies that crept away on every side through the grotto. There were things like bodiless legs or arms that flailed in the slime, or heads that rolled, or floundering bellies with fishes' fins; and all manner of things malformed and monstrous, that grew in size as they departed from the neighborhood of Abhoth. And those that swam not swiftly ashore when they fell into the pool from Abhoth, were devoured by mouths that gaped in the parent bulk.",
@@ -42,7 +45,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 4,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/atlach-natcha.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/atlach-natcha2.jpg"
+    ],
     "name": "atlach-natcha",
     "nicks": ["the spider god"],
     "overview": "The dark form ran toward him with incredible swiftness. When it came near he saw that there was a kind of face on the squat ebon body, low down amid the several-jointed legs. The face peered up with a weird expression of doubt and inquiry; and terror crawled through the veins of the bold huntsman as he met the small, crafty eyes that were circled about with hair.",
@@ -53,8 +59,13 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 5,
-    "img": [],
-    "name": "azahoth",
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/azathoth.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/azathoth2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/azathoth3.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/azathoth4.jpg"
+    ],
+    "name": "azathoth",
     "nicks": [
       "the blind idiot god",
       "the nuclear chaos",
@@ -78,7 +89,7 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 6,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/basatan.jpg"],
     "name": "basatan",
     "nicks": ["master of the crabs"],
     "overview": "By the look of the ring 'with the tentacles of a kraken clasping the orb-like gem' and the visions that one of the characters sees in the orb 'swirling as of tides and of shadowy fins and tentacles far down in its glimmering greenness' we can assume that he has tentacles and/or fins.",
@@ -89,7 +100,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 7,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/bokrug.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/bokrug-png.png"
+    ],
     "name": "bokrug",
     "nicks": ["the great water lizard"],
     "overview": "Bokrug is the lake-dwelling god of the semi-amphibian Thuum'ha ('Voiceless Ones') of Ib in the land of Mnar. The deity sleeps beneath the calm waters of a lake that bordered Ib and the city of Sarnath. When the humans of Sarnath cruelly slaughtered the populace of Ib and stole the god's idol, the great deity stirred. Each year thereafter, strange ripples reportedly disturbed the otherwise placid lake. On the one-thousandth anniversary of Ib's destruction, Bokrug rose up and utterly destroyed the city of Sarnath, so completely that not even ruins remained. Afterwards, the Thuum'ha race recolonised Ib and thenceforth lived undisturbed.",
@@ -100,7 +114,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser servitor race",
     "id": 8,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/byakhee.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/byakhee2.jpg"
+    ],
     "name": "byakhee",
     "nicks": [
       "servants of he not to be named",
@@ -116,7 +133,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 9,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/byatis.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/byatis2.jpg"
+    ],
     "name": "byatis",
     "nicks": [
       "the berkeley toad",
@@ -131,7 +151,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
     "id": 10,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/cat-from-saturn.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/cat-from-saturn2.jpg"
+    ],
     "name": "cat from saturn",
     "nicks": [],
     "overview": "undefined",
@@ -153,7 +176,11 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 12,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/chaugnar-faughn.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/chaugnar-faughn2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/chaugnar-faughn3.jpg"
+    ],
     "name": "chaugnar faugn",
     "nicks": [
       "the horror from the hills",
@@ -169,7 +196,10 @@
     "canon": "Expanded Cthulhu Mythos",
     "category": "great independent race",
     "id": 13,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/chthonian.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/chthonian2.jpg"
+    ],
     "name": "chthonian",
     "nicks": [
       "burrowers beneath",
@@ -186,7 +216,9 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great independent race",
     "id": 14,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/color-out-of-space.jpg"
+    ],
     "name": "colour out of space",
     "nicks": ["life-force feeder"],
     "overview": "Globules of colour that are referred to as such 'only by analogy', as they do not fall within the range of anything known in the visible spectrum.",
@@ -197,7 +229,7 @@
     "canon": "Derleth Cthulhu Mythos",
     "category": "great old one",
     "id": 15,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/cthugha.jpg"],
     "name": "cthugha",
     "nicks": ["the living flame", "the burning one", "kathigu-ra"],
     "overview": "Cthugha resembles a giant ball of fire. He is served by the Flame Creatures of Cthugha. Fthaggua, regent of the fire vampires, may be his progeny. He has at least one other known progeny, the being known as Aphoom-Zhah.",
@@ -208,7 +240,12 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 16,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/cthulhu.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/cthulhu2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/cthulhu3.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/cthulhu4.jpg"
+    ],
     "name": "cthulhu",
     "nicks": [
       "high priest of the great old ones",
@@ -230,7 +267,7 @@
     "canon": "Lovecraft's Circle",
     "category": "outer god",
     "id": 17,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/cxaxukluth.jpg"],
     "name": "cxaxukluth",
     "nicks": [
       "ksaksa-kluth",
@@ -245,7 +282,7 @@
     "canon": "Expanded Cthulhu Mythos",
     "category": "outer god",
     "id": 18,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/d'endrrah.jpg"],
     "name": "d'endrrah",
     "nicks": ["the divinity"],
     "overview": "D'endrrah is a being who possesses a great hunger for living worlds. It often manifests in the form of a gigantic squid-like monster or a cloud of heavy, smoky, organic matter with millions of teeth, which wanders the cosmos endlessly to devour any world it stumbles across.",
@@ -256,7 +293,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser old one",
     "id": 19,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/dagon.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/dagon2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/dagon&hydra.jpg"
+    ],
     "name": "dagon",
     "nicks": ["ruler of the deep ones", "father dragon"],
     "overview": "Dagon is an enormous specimen of a Deep One that has been mentioned in texts since at least the time of Mesopotamia. A half man, half fish, like a merman.",
@@ -267,7 +308,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great servitor race",
     "id": 20,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/dark-young-of-shub-niggurath.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/dark-young-of-shub-niggurath2.jpg"
+    ],
     "name": "dark young of shub-niggurath",
     "nicks": [],
     "overview": "They stand as tall as a tree on stumpy, hoofed legs. A mass of tentacles protrudes from their trunks where a head would normally be, and puckered maws, dripping green goo, cover their flanks. The monsters roughly resemble trees in silhouette — the trunks being the short legs and the tops of the trees represented by the ropy, branching bodies. The whole mass of these things smells like an open grave.",
@@ -294,7 +338,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser servitor race",
     "id": 22,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/deep-one.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/deep-one2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/deep-one3.jpg"
+    ],
     "name": "deep one",
     "nicks": [
       "gilled humanoid",
@@ -317,7 +365,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great independent race",
     "id": 23,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/dhole.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/dhole2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/dhole3.jpg"
+    ],
     "name": "dhole",
     "nicks": [
       "burrowing horro",
@@ -337,7 +389,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
     "id": 24,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/dimensional-shambler.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/dimensional-shambler2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/dimensional-shambler3.jpg"
+    ],
     "name": "dimensional shambler",
     "nicks": [
       "the mourderously malign",
@@ -355,7 +411,7 @@
     "canon": "Derleth Cthulhu Mythos",
     "category": "lesser old one",
     "id": 25,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/e-poh.jpg"],
     "name": "e-poh",
     "nicks": ["city-boulder eons old", "the first", "old ones"],
     "overview": "E-poh is a Tcho-Tcho sorcerer from the fabled city of Alaozar in the Plateau of Sung, Burma, and leads his people in worship of Zhar and Lloigor. He is 'slightly taller' than the typical four-foot-tall Tcho-Tcho, and 'disfigured by a hump on his back'. He is said to be over 7,000 years old.",
@@ -366,7 +422,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
     "id": 26,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/elder-thing.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/elder-thing2.jpg"
+    ],
     "name": "elder thing",
     "nicks": ["city-boulder eons old", "the first", "old ones"],
     "overview": "Gray colored, barrel-shaped entities; the central mass displays five vertical ridges, between which wing-like membranes can unfold from interior cavities. Spaced around the central body mass are present five flexible arms, each ending in a conglomeration of small tentacles or tendrils. From the bulbous neck a five-pointed starfish-like 'head' rises. The head have five stalks ending in eyes. Atop the head is present an aperture not unlike a mouth. Below the central body are five flexible legs, each ending in a paddle or flipper-like appendage.",
@@ -377,7 +436,10 @@
     "canon": "Lovecraft's Circle",
     "category": "lesser servitor race",
     "id": 27,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/fire-vampire.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/fire-vampire2.jpg"
+    ],
     "name": "fire vampire",
     "nicks": ["the flame feeder"],
     "overview": "The Fire Vampires are living extensions of the cosmic entity known as Fthaggua. Traveling the cosmos in their interstellar ship, the Ktynga, they appear as bluish electrical discharges resembling lightning. They feast upon the life energy of sentient creatures. The victim will burst into flames during this process, with the Fire Vampires consuming their essence and memories using heat instead of internal metabolization. These stolen memories are added to Fthaggua's gestalt consciousness, allowing them to learn better and adapt to consuming more.",
@@ -388,7 +450,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great independent race",
     "id": 28,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/flying-polyp.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/flying-polyp2.jpg"
+    ],
     "name": "flying polyp",
     "nicks": [
       "terror from the blackness below",
@@ -406,7 +471,10 @@
     "canon": "Lovecraft's Circle",
     "category": "lesser independent race",
     "id": 29,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/formless-spawn.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/formless-spawn2.jpg"
+    ],
     "name": "formless spawn of tsathoggua",
     "nicks": ["black slime", "fluid ones", "the ichorous"],
     "overview": "A living ooze able to take temporary forms, like a mass of undulating limbs, or a great sphere possessing many mouths.",
@@ -417,7 +485,7 @@
     "canon": "Lovecraft's Circle",
     "category": "lesser independent race",
     "id": 30,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/fthaggua.jpg"],
     "name": "fthaggua",
     "nicks": ["the lord of ktynga", "the king regent of the fire vampires"],
     "overview": "A great flickering ball of cold blue flame. It dwells with the Fire Vampires within an enormous edifice upon the surface of the blue comet Ktynga, a celestial body which Fthaggua can guide across the cosmos and which is possessed of many strange properties, not least the incredible heat that it radiates or the fact that it can exceed the speed of light.",
@@ -428,7 +496,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
     "id": 31,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/ghast.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/ghast2.jpg"
+    ],
     "name": "ghast",
     "nicks": [
       "creeping hoppers",
@@ -445,7 +516,7 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 32,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/ghatanothoa.jpg"],
     "name": "ghatanothoa",
     "nicks": [
       "the dark god",
@@ -466,7 +537,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 33,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/ghizguth.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/ghizguth2.jpg"
+    ],
     "name": "ghizguth",
     "nicks": ["the sound in the deep waters", "ghisguth", "ghisghuth"],
     "overview": "undefined",
@@ -477,7 +551,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
     "id": 34,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/ghoul.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/ghoul2.jpg"
+    ],
     "name": "ghoul",
     "nicks": [
       "dark kin",
@@ -496,7 +573,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 35,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/gloon.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gloon2.jpg"
+    ],
     "name": "gloon",
     "nicks": ["the corrupter of flesh", "master of the temple", "glhuun"],
     "overview": "Gloon is described as great limacene or slug-like abomination, though it usually hides its true nature through the glamour of a beautiful statue resembling the Greek god Dionysus.",
@@ -507,7 +587,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great independent race",
     "id": 36,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/gnoph-keh.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gnoph-keh2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gnoph-keh3.jpg"
+    ],
     "name": "gnoph-keh",
     "nicks": ["bear monsters", "nanruki", "ohto", "oon-t'keph", "white horns"],
     "overview": "A polar bear monstrosity, with six-limbs and covered in shaggy white hair. From its forehead rise a single horn, while its great mouth was filled with wicked and sharp teeth. It may walk upright on two legs or bear-like on four, but other times it uses all its six limbs.",
@@ -518,7 +602,10 @@
     "canon": "Expanded Cthulhu Mythos",
     "category": "great old one",
     "id": 37,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/gobogeg.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gobogeg2.jpg"
+    ],
     "name": "gobogeg",
     "nicks": ["the twice-invoked", "the moon-ladder"],
     "overview": "A colossal pillar of amorphous alien flesh, with a cyclopean head or eye in the center.",
@@ -540,7 +627,11 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 39,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/gol-goroth.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gol-goroth2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gol-goroth3.jpg"
+    ],
     "name": "gol-goroth",
     "nicks": ["the forgotten old one", "god of the black stone"],
     "overview": "Gol-goroth appears as a titanic, black toad-like monstrosity with an impossibly malevolent glare, or a tentacle covered, scaly, bat-winged entity. However, its physical form may alter to fit the worst nightmares of whoever is viewing it.",
@@ -562,7 +653,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great independent race",
     "id": 41,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/great-race-of-yith.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/great-race-of-yith2.jpg"
+    ],
     "name": "great race of yith",
     "nicks": [],
     "overview": "Beings resembling large cones with a muscular foot for locomotion and four extensible arms or tentacles projecting from the apex. Two of these arms ended in claws or pincers, the third terminated in four clustered trumpet-like organs, and the fourth was topped with a spherical yellow 'head' with three dark eyes, four stalked flower-like hearing organs on top, and a number of green tentacles dangling beneath. Their blood was dark green and very thick.",
@@ -573,7 +667,12 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
     "id": 42,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/gug.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gug2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gug3.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/gug4.jpg"
+    ],
     "name": "gug",
     "nicks": [""],
     "overview": "Gugs are large, black-furred beasts with vertically-opening fanged jaws. Their two eyes protrude from either side of their head, and their limbs bifurcate at the elbows, giving them four separate forearms. They are worshippers of the Great Ones, the gods of Earth who reside in Kadath. Gugs are estimated to reach around sixteen feet in heights and weigh in at nearly 2,000 pounds.",
@@ -584,7 +683,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 43,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/han.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/han-png.png"
+    ],
     "name": "han",
     "nicks": [""],
     "overview": "undefined",
@@ -595,7 +697,11 @@
     "canon": "Adjacent Works",
     "category": "great old one",
     "id": 44,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/hastur.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/hastur2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/hastur3.jpg"
+    ],
     "name": "hastur",
     "nicks": [
       "the king in yellowu",
@@ -626,7 +732,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser old one",
     "id": 45,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/high-priest-not-to-be-described.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/high-priest-not-to-be-described2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/high-priest-not-to-be-described3.jpg"
+    ],
     "name": "high priest not to be described",
     "nicks": [],
     "overview": "The Priest appears as a man covered by a yellow robe and with his face hidden behind a silk mask. Although they are not clearly described, it seems that he has terrifying hands.",
@@ -637,7 +747,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great independent race",
     "id": 46,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/hound-of-tindalos.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/hound-of-tindalos2.jpg"
+    ],
     "name": "hound of tindalos",
     "nicks": ["cŵn annwn", "bandersnatch"],
     "overview": "The Hounds of Tindalos are said to inhabit the 'angles' of time; in contrast, humans and other earthly lifeforms live within the 'curves' of time. Little is known about their appearance, as few victims survive their attacks; however, they are known to have hollow proboscises used for feeding, and are associated with a blue pus-like substance.",
@@ -648,7 +761,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great servitor race",
     "id": 47,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/hunting-horror.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/hunting-horror2.jpg"
+    ],
     "name": "hunting horror",
     "nicks": [],
     "overview": "undefined",
@@ -659,7 +775,7 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "elder god",
     "id": 48,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/hypnos.jpg"],
     "name": "hypnos",
     "nicks": [""],
     "overview": "He appears as a youthful man with a bearded face, 'immense, sunken and widely luminous eyes', and a crown of poppies.",
@@ -670,7 +786,7 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 49,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/hziulquoigmnzhah.jpg"],
     "name": "hziulquoigmnzhah",
     "nicks": ["the god of cykranosh", "ziulquag-manzah"],
     "overview": "Ludicrously short legs … exceedingly elongated arms, and a round, sleepy-looking head that was pendulous from a spherical body",
@@ -681,7 +797,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 50,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/iod.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/iod2.jpg"
+    ],
     "name": "iod",
     "nicks": [
       "the hunter of souls",
@@ -702,7 +821,11 @@
     "canon": "Adjacent Works",
     "category": "great old one",
     "id": 51,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/ithaqua.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/ithaqua2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/ithaqua3.jpg"
+    ],
     "name": "ithaqua",
     "nicks": [
       "death-walker",
@@ -724,7 +847,7 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 52,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/juk-shabb.jpg"],
     "name": "juk-shabb",
     "nicks": ["god of yekub"],
     "overview": "Juk-Shabb is a Great Old One which communicates by changing color and using telepathy. The being is a powerful psionic and has extensive knowledge of magic. Among the Great Old Ones, it is one of the least malevolent. Appears as a huge shining ball of sentient energy.",
@@ -757,7 +880,7 @@
     "canon": "Derleth Cthulhu Mythos",
     "category": "great old one",
     "id": 55,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/zhar-&-lloigor.jpg"],
     "name": "lloigor",
     "nicks": ["the star-treader", "the twin obscenities"],
     "overview": "Their enormous tentacles are entangled with each other's bodies, which lie in distant parts of the same cave. The two constantly emit strange humming sounds at each other as they have for millennia since being imprisoned there by the Elder Gods.",
@@ -768,7 +891,10 @@
     "canon": "Expanded Cthulhu Mythos",
     "category": "great servitor race",
     "id": 56,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/lloigor-species.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/lloigor-species2.jpg"
+    ],
     "name": "lloigors",
     "nicks": ["the invisible ones from the stars"],
     "overview": "The Lloigor are vortices of living power completely invisible except on occasions when they appear reptilian.",
@@ -795,7 +921,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
     "id": 58,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/mi-go.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/mi-go2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/mi-go3.jpg"
+    ],
     "name": "mi-go",
     "nicks": [
       "the fungi from yuggoth",
@@ -816,7 +946,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great independent race",
     "id": 59,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/moon-beast.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/moon-beast2.jpg"
+    ],
     "name": "moon-beast",
     "nicks": [],
     "overview": "They are pale, squat, toadlike creatures, superhumanly strong and noxious-smelling, having no eyes but instead a mass of pink tentacles at the end of their snout.",
@@ -827,7 +960,7 @@
     "canon": "Adjacent Works",
     "category": "great old one",
     "id": 60,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/mordiggian.jpg"],
     "name": "mordiggian",
     "nicks": [
       "the charnel god",
@@ -854,7 +987,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser old one",
     "id": 62,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/mother-hydra.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/mother-hydra2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/mother-hydra3.jpg"
+    ],
     "name": "mother hydra",
     "nicks": [],
     "overview": "An enormous specimen of a Deep One that has been mentioned in texts since at least the time of Mesopotamia. A half man, half fish, like a merman.",
@@ -865,7 +1002,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser old one",
     "id": 63,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/n'gha-kthun.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/n'gha-kthun2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/n'gha-kthun3.jpg"
+    ],
     "name": "n'gha-kthun",
     "nicks": ["n'gah-kthun"],
     "overview": "undefined",
@@ -876,7 +1017,7 @@
     "canon": "Expanded Cthulhu Mythos",
     "category": "lesser old one",
     "id": 64,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/naggoob.jpg"],
     "name": "naggoob",
     "nicks": ["father of ghouls"],
     "overview": "undefined",
@@ -887,7 +1028,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser servitor race",
     "id": 65,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/night-gaunt.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/night-gaunt2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/night-gaunt3.jpg"
+    ],
     "name": "night-gaunt",
     "nicks": ["the faceless"],
     "overview": "Night-gaunts are a species of flying creatures inhabiting Earth's Dreamlands. They are described as having smooth whale-like skin, long slender humanoid bodies, curving horns, leather bat-like wings, and a blank expanse of flesh where one would expect a face to be.",
@@ -898,7 +1043,10 @@
     "canon": "Adjacent Works",
     "category": "great old one",
     "id": 66,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/nodens.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/nodens2.jpg"
+    ],
     "name": "nodens",
     "nicks": ["lord of the great abyss"],
     "overview": "Nodens is also described with '...the grey and awful form of primal Nodens, Lord of the Great Abyss.'",
@@ -909,7 +1057,7 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 67,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/nug-&-yeb.jpg"],
     "name": "nug",
     "nicks": ["the twin blasphemie", "the twin blasphemies"],
     "overview": "undefined",
@@ -920,7 +1068,7 @@
     "canon": "Expanded Cthulhu Mythos",
     "category": "great old one",
     "id": 68,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/nyaghoggua.jpg"],
     "name": "nyaghoggua",
     "nicks": ["the kraken within"],
     "overview": "undefined",
@@ -931,7 +1079,14 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "outer god",
     "id": 69,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/nyarlathotep.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/nyarlathotep2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/nyarlathotep3.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/nyarlathotep4.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/nyarlathotep5.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/nyarlathotep6.jpg"
+    ],
     "name": "nyarlathotep",
     "nicks": [
       "Ahtu",
@@ -1001,7 +1156,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 70,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/nyogtha.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/nyogtha2.jpg"
+    ],
     "name": "nyogtha",
     "nicks": [
       "the haunter of the red abyss",
@@ -1019,7 +1177,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 71,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/oorn.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/oorn2.jpg"
+    ],
     "name": "oorn",
     "nicks": [],
     "overview": "A pudgy creature with short grey-colored fur and three small red eyes, Oorn is believed to have originated from the mysterious 'outer abyss', and was found on the outskirts of the city of Zeth, located on an extraterrestrial planet, long before the dawn of humanity on Earth. Said to resemble some kind of colossal mollusc, Oorn is believed to have a multitude of tentacle-like appendages which are capable of projecting a digestive fluid. She uses this corrosive substance to douse her prey in order to pre-digest them for consumption.",
@@ -1030,7 +1191,7 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 72,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/quachil-uttaus.jpg"],
     "name": "quachil uttaus",
     "nicks": [
       "the treader of the dust",
@@ -1056,7 +1217,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser servitor race",
     "id": 74,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/rat-thing.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/rat-thing2.jpg"
+    ],
     "name": "rat-thing",
     "nicks": ["malevolent mocker"],
     "overview": "The Rat People are rat-human hybrids who can be both bipedal and quadrupedal. They were all once human, but have degenerated due to inbreeding and the worship of gods such as Y'golonac.",
@@ -1067,7 +1231,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 75,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/rhan-tegoth.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/rhan-tegoth2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/rhan-tegoth3.jpg"
+    ],
     "name": "rhan-tegoth",
     "nicks": ["terror of the hominids", "he of the ivory throne"],
     "overview": "Rhan-Tegoth is a fifteen foot tall, medusa-like, insectoid amphibious god-being (Great Old One) of comparatively little power but vital to the return of the Old Ones. It lived in the warm seas of Yuggoth before coming to Earth.",
@@ -1078,7 +1246,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 76,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/rlim-shaikorth.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/rlim-shaikorth2.jpg"
+    ],
     "name": "rlim shaikorth",
     "nicks": ["the white worm"],
     "overview": "Appearing as a gigantic, pale, white worm with a great gaping maw and empty sockets for eyes that drip blood continuously.",
@@ -1089,7 +1260,10 @@
     "canon": "Derleth Cthulhu Mythos",
     "category": "lesser servitor race",
     "id": 77,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/sand-dweller.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/sand-dweller2.jpg"
+    ],
     "name": "sand-dweller",
     "nicks": ["stalker of the wastes"],
     "overview": "They resemble 'emaciated, grit-encrusted humans with koala-like heads.",
@@ -1100,7 +1274,7 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 78,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/sebek.jpg"],
     "name": "sebek",
     "nicks": ["the crocodile god"],
     "overview": "A slanted, saurian skull, all green and scaly on top; hairless, slimy, slick and nauseous. Great bony ridges socketed the embered eyes, staring from behind a sickening sweep of long, reptilian snout. A rugose muzzle, with great champing jaws half opened to reveal a lolling pinkish tongue and scummy teeth of stilleto-like sharpness.",
@@ -1111,7 +1285,10 @@
     "canon": "Lovecraft's Circle",
     "category": "lesser independent race",
     "id": 79,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/snake-people.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/snake-people2.jpg"
+    ],
     "name": "serpent person",
     "nicks": [
       "snake men",
@@ -1128,7 +1305,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great servitor race",
     "id": 80,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/servitor-of-the-outer-gods.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/servitor-of-the-outer-gods2.jpg"
+    ],
     "name": "servitor of the outer gods",
     "nicks": ["amorphous idiot flute-players"],
     "overview": "The Servitors of the Outer Gods are amorphous beings that resemble squids, frogs, and octopi which are constantly changing their shape and appearance. When needed they accompany the Outer Gods, though most of them are in the Court of Azathoth.",
@@ -1139,7 +1319,7 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 81,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/sfatlicllp.jpg"],
     "name": "sfatlicllp",
     "nicks": ["the fallen wisdom", "great old one who mated with voormis"],
     "overview": "Whilst she is capable of transforming her whole body into a black viscous substance, the form that Sfatlicllp usually takes has only the lower half of her body composed thus, with the upper half being somewhat serpentine in appearance, with a pair of vicious talons, black scales with an oily sheen, and a great sprouting of tentacles in place of hair. Whilst in her liquid form, however, she is capable of assuming virtually any shape that she wishes, and may even seep through the cracks in brickwork or beneath locked doors if she so wishes.",
@@ -1150,7 +1330,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser servitor race",
     "id": 82,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/shantak.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/shantak2.jpg"
+    ],
     "name": "shantak",
     "nicks": ["shantak-bird"],
     "overview": "Lovecraft depicts them as a flying bird-like creature larger than elephants, with heads resembling those of horses. They have scales rather than feathers, and lay eggs of colossal size and rich flavor. They are allied with Nyarlathotep, and fear the Night-gaunt minions of Nodens.",
@@ -1161,7 +1344,10 @@
     "canon": "Lovecraft's Circle",
     "category": "great old one",
     "id": 83,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/shathak.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/shathak2.jpg"
+    ],
     "name": "shathak",
     "nicks": [
       "chushax",
@@ -1177,7 +1363,7 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
     "id": 84,
-    "img": [],
+    "img": ["https://lovecraftapirest.fly.dev/api/images/shaurash-ho.jpg"],
     "name": "shaurash-ho",
     "nicks": ["the prowler in the tombs", "father of all ghouls", "naggob"],
     "overview": "Shaurash-Ho (The Prowler Among the Tombs, and Father of All Ghouls) is the progenitor of the ghoul species, possibly through mating with Bast. Shaurash-ho is a descendent of Cthulhu and father of Yogash the Ghoul and it has been postulated that it might itself have been a Deep One. Shaurash-ho might be the same entity as Naggoob.",
@@ -1210,7 +1396,11 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser servitor race",
     "id": 87,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/shoggoth.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/shoggoth2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/shoggoth3.jpg"
+    ],
     "name": "shoggoth",
     "nicks": ["the god in the box", "the big black thing"],
     "overview": "A shoggoth is a sentient blob of self-shaping, gelatinous flesh, something like a giant amoeba. A shoggoth is some 15 feet in diameter if it shaped itself into a sphere, but larger and smaller versions exist. A shoggoth is capable of shaping itself into whatever organs or shapes it finds necessary at the moment; however, in its usual state it tends to sport a roiling profusion of eyes, mouths, and pseudopodia. When encountered at the South Pole, it moved at incredible speed. It was described as like watching a train closing in on someone standing on the tracks.",
@@ -1221,7 +1411,10 @@
     "canon": "Lovecraft's Myths Cycle",
     "category": "outer god",
     "id": 88,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/shub-niggurath.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/shub-niggurath2.jpg"
+    ],
     "name": "shub-niggurath",
     "nicks": [
       "the black goat with a thousand young",
@@ -1240,18 +1433,35 @@
     "canon": "Expanded Cthulhu Mythos",
     "category": "great old one",
     "id": 89,
-    "img": [],
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/shudde-mell.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/shudde-mell2.jpg"
+    ],
     "name": "shudde m'ell",
     "nicks": ["the burrower beneath", "the great chthonian"],
     "overview": "Shudde M'ell appears as a colossal worm with tentacles sprouting from its head, and is so large that it can cause earthquakes by simply moving. Shudde M'ell is a mile long great grey worm-like creature that burrows through the earth, melting all rocks in its wake. It is believed to be the supreme regent of the Chthonians as well as the largest and most powerful of the race.",
     "wikiUrl": "https://lovecraft.fandom.com/wiki/Shudde_M'ell"
   },
   {
+    "author": "Howard Phillips Lovecraft",
+    "canon": "Lovecraft's Myths Cycle",
+    "category": "great independent race",
+    "id": 90,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/spider-of-leng.jpg"],
+    "name": "spider of leng",
+    "nicks": "leng spider",
+    "overview": "Purple-colored arachnid creatures that appear somewhat similar to terrestrial spiders yet on a much larger scale, the smaller of the Spiders of Leng are the size of a Shetland pony; larger specimens would tower over an elephant. They possess a degree of intelligence far higher than that of regular animals, but are not above the cannibalisation of other Leng Spiders. Whilst they are capable of spinning webs to disable their victims, they also possess a venomous bite of great potency, and have the ability to climb sheer surfaces, much like their counterparts in the waking world.",
+    "wikiUrl": "https://lovecraft.fandom.com/wiki/Spider_of_Leng"
+  },
+  {
     "author": "Henry Kuttner",
     "canon": "Lovecraft's Circle",
     "category": "great servitor race",
-    "id": 90,
-    "img": [],
+    "id": 91,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/star-spawn-of-cthulhu.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/star-spawn-of-cthulhu2.jpg"
+    ],
     "name": "star spawn of cthulhu",
     "nicks": ["satrap of the sleeper", "cthulhi", "xothians"],
     "overview": "A mountainous form lumbers to life, a hideous creature only accidentally humanoid in shape, its hateful face a writhing mass of tentacles.",
@@ -1261,8 +1471,11 @@
     "author": "Robert Bloch",
     "canon": "Lovecraft's Circle",
     "category": "lesser independent race",
-    "id": 91,
-    "img": [],
+    "id": 92,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/star-vampire.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/star-vampire2.jpg"
+    ],
     "name": "star vampire",
     "nicks": ["invisible ravener", "shambler from the stars"],
     "overview": "Star Vampires are creatures from outer space that are normally invisible. They are voracious blood suckers, becoming visible once their bodies are full of the victim's blood, a vivid red colour. Its form is like that of a jellyfish with neither a head or any visible facial features apart from its huge maw. Their bodies have multiple muscular tentacles, each strong enough to crush a man to death and on the tips are the suckers with which it drains the blood of its victims. From the star vampires comes nonstop eerie horrifying laughter.",
@@ -1272,7 +1485,7 @@
     "author": "Robert A. W. Lowndes",
     "canon": "Expanded Cthulhu Mythos",
     "category": "great old one",
-    "id": 92,
+    "id": 93,
     "img": [],
     "name": "sthanee",
     "nicks": ["the lost one"],
@@ -1283,7 +1496,7 @@
     "author": "Lin Carter",
     "canon": "Expanded Cthulhu Mythos",
     "category": "lesser old one",
-    "id": 93,
+    "id": 94,
     "img": [],
     "name": "ta-vho-shai",
     "nicks": ["the lost one"],
@@ -1294,7 +1507,7 @@
     "author": "Lin Carter",
     "canon": "Expanded Cthulhu Mythos",
     "category": "lesser old one",
-    "id": 94,
+    "id": 95,
     "img": [],
     "name": "tch'tkaa",
     "nicks": [""],
@@ -1305,8 +1518,11 @@
     "author": "August Derleth",
     "canon": "Derleth Cthulhu Mythos",
     "category": "lesser servitor race",
-    "id": 95,
-    "img": [],
+    "id": 96,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/tcho-tcho.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/tcho-tcho2.jpg"
+    ],
     "name": "tcho-tcho",
     "nicks": ["tchortcha", "servitors of the old ones"],
     "overview": "They are genetically from humans, but they are notably smaller, have livid red skin, and other marked physiological differences. Legends point to prehistoric genetic engineering of pre-human ancestors by the Great Old Ones Zhar and Lloigor. These legends purport they 'grew from the 'seeds' of the Twin Obscenities.",
@@ -1316,8 +1532,8 @@
     "author": "Clark Ashton Smith",
     "canon": "Lovecraft's Circle",
     "category": "great old one",
-    "id": 96,
-    "img": [],
+    "id": 97,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/thasaidon.jpg"],
     "name": "thasaidon",
     "nicks": ["black god of evil", "master of the endless void"],
     "overview": "Thasaidon is a malignant entity manifesting as a mace-wielding armored warrior. He is revered as the Principle of Evil in Zothique, but his cult dates back to the time of Mu.",
@@ -1327,8 +1543,8 @@
     "author": "Robert E. Howard",
     "canon": "Lovecraft's Circle",
     "category": "great old one",
-    "id": 97,
-    "img": [],
+    "id": 98,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/thog.jpg"],
     "name": "thog",
     "nicks": ["the demon-god of xuthal"],
     "overview": "An octopus-like monstrosity of the Hyborian Age, Thog is a man eating abomination which haunts the underground city of Xuthal.",
@@ -1338,7 +1554,7 @@
     "author": "Donald Wandrei",
     "canon": "Lovecraft's Circle",
     "category": "lesser servitor race",
-    "id": 98,
+    "id": 99,
     "name": "Tree-man of M'bwa",
     "nicks": [],
     "overview": "The Tree-Men were the unfortunate victims of an evil undead being named M'bwa, an entity in service to the alien God of the Red Flux.",
@@ -1348,8 +1564,11 @@
     "author": "Howard Phillips Lovecraft",
     "canon": "Lovecraft's Myths Cycle",
     "category": "outer god",
-    "id": 99,
-    "img": [],
+    "id": 100,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/tru'nembra.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/tru'nembra2.jpg"
+    ],
     "name": "tru'nembra",
     "nicks": ["the flautist of azathoth", "the angel of music"],
     "overview": "Tru'nembra, The Flautist of Azathoth, is an Outer God who resides eternally in the Court of Azathoth. Tru'nembra does not possess an instrument for he himself is an instrument. He is made entirely out of visible noise and is seemingly unintelligent, just like his master. When Tru'nembra is summoned, it brings along the maddening symphony it uses to keep its master asleep, bringing insanity to those who are unfortunate enough to hear its blaring chaos.",
@@ -1359,8 +1578,13 @@
     "author": "Howard Phillips Lovecraft",
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
-    "id": 100,
-    "img": [],
+    "id": 101,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/tsathoggua.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/tsathoggua2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/tsathoggua3.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/tsathoggua4.jpg"
+    ],
     "name": "tsathoggua",
     "nicks": [
       "zhothaqquah",
@@ -1381,8 +1605,11 @@
     "author": "Howard Phillips Lovecraft",
     "canon": "Lovecraft's Myths Cycle",
     "category": "outer god",
-    "id": 101,
-    "img": [],
+    "id": 102,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/tulzscha.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/tulzscha2.jpg"
+    ],
     "name": "tulzscha",
     "nicks": ["the green flame"],
     "overview": "Tulzscha appears as a blazing green ball of flame, dancing with its Lesser Outer Gods at the court of Azathoth. When summoned to the world of men, it manifests in a gaseous form, penetrating the planet to the core, then erupting from below as a pillar of flame. It is unable to move from the point it emerges.",
@@ -1392,7 +1619,7 @@
     "author": "Lin Carter",
     "canon": "Expanded Cthulhu Mythos",
     "category": "lesser old one",
-    "id": 102,
+    "id": 103,
     "img": [],
     "name": "ubb",
     "nicks": ["father of worms", "father ubb"],
@@ -1403,8 +1630,8 @@
     "author": "Clark Ashton Smith",
     "canon": "Lovecraft's Circle",
     "category": "outer god",
-    "id": 103,
-    "img": [],
+    "id": 104,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/ubbo-sathla.jpg"],
     "name": "ubbo-sathla",
     "nicks": [
       "the unbegotten source",
@@ -1420,7 +1647,7 @@
     "author": "Lin Carter",
     "canon": "Expanded Cthulhu Mythos",
     "category": "lesser old one",
-    "id": 104,
+    "id": 105,
     "img": [],
     "name": "voorm",
     "nicks": [],
@@ -1431,8 +1658,8 @@
     "author": "Clark Ashton Smith",
     "canon": "Lovecraft's Circle",
     "category": "lesser servitor race",
-    "id": 105,
-    "img": [],
+    "id": 106,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/voormi.jpg"],
     "name": "voormi",
     "nicks": [],
     "overview": "The Voormis are described as three-toed, umber-colored, fur-covered humanoids[1] though they are carefully differentiated from their traditional enemies (the shaggier-haired but superficially similar Gnophkehs who worshiped the Great Old One Rhan-Tegoth). Both of them are further differentiated from true humans. The Voormis communicate by dog-like howls.",
@@ -1442,8 +1669,11 @@
     "author": "Clark Ashton Smith",
     "canon": "Lovecraft's Circle",
     "category": "great old one",
-    "id": 106,
-    "img": [],
+    "id": 107,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/vulthoom.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/vulthoom2.jpg"
+    ],
     "name": "vulthoom",
     "nicks": ["the sleeper of ravermos", "gsarthotegga"],
     "overview": "a gigantic plant, with innumerable roots, pale and swollen, that ramified from a bulbular hole. His bole, half hidden from view, is topped with a vermilion cup like a monstrous blossom; and from the cup there grow an elfin figure, pearly-hued, and formed with exquisite beauty and symmetry.",
@@ -1453,7 +1683,7 @@
     "author": "Clark Ashton Smith",
     "canon": "Lovecraft's Circle",
     "category": "outer god",
-    "id": 107,
+    "id": 108,
     "img": [],
     "name": "xexanoth",
     "nicks": ["the sleeper of ravermos", "gsarthotegga"],
@@ -1464,8 +1694,13 @@
     "author": "Ramsey Campbell",
     "canon": "Expanded Cthulhu Mythos",
     "category": "great old one",
-    "id": 108,
-    "img": [],
+    "id": 109,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/y'golonac.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/y'golonac2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/y'golonac3.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/y'golonac4.jpg"
+    ],
     "name": "y'golonac",
     "nicks": ["inhabitant of the ruins", "the defiler"],
     "overview": "Y'golonac is imprisoned behind a wall of bricks in unknown ruins. His true form is uncertain, but when he possesses a human host to manifest, he appears as a grotesquely obese man, lacking a head or neck, with a mouth in the palm of each hand. Unlike other deities, Y'golonac is clearly capable of understanding humans, to the point of being able to conduct a conversation in English through his human host.",
@@ -1475,8 +1710,11 @@
     "author": "Howard Phillips Lovecraft",
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
-    "id": 109,
-    "img": [],
+    "id": 110,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/yaddithian.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/yaddithian2.jpg"
+    ],
     "name": "yaddithian",
     "nicks": ["nug-soth", "denizens of yaddith"],
     "overview": "A clawed, snouted beings with his body partly squamous, and curiously articulated in a fashion mainly insect-like.",
@@ -1486,8 +1724,8 @@
     "author": "Howard Phillips Lovecraft",
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
-    "id": 110,
-    "img": [],
+    "id": 111,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/yeb.jpg"],
     "name": "yeb",
     "nicks": ["the twin balsphemie", "the twin balsphemies"],
     "overview": "undefined",
@@ -1497,8 +1735,11 @@
     "author": "Brian Lumley",
     "canon": "Expanded Cthulhu Mythos",
     "category": "lesser old one",
-    "id": 111,
-    "img": [],
+    "id": 112,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/yegg-ha.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/yegg-ha2.jpg"
+    ],
     "name": "yegg-ha",
     "nicks": ["the faceless one", "the master of the nightgaunts"],
     "overview": "A faceless bat-winged giant that was 'killed' by Roman soldiers near Hadrian's Wall in Britain, c.128 A.D.",
@@ -1508,19 +1749,37 @@
     "author": "Clark Ashton Smith",
     "canon": "Lovecraft's Circle",
     "category": "outer god",
-    "id": 112,
-    "img": [],
+    "id": 113,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/yhoundeh.jpg"],
     "name": "yhoundeh",
     "nicks": ["the elk-goddess", "y'houndeh"],
     "overview": "Although given the epithet of 'the Elk-Goddess', Youndeh's true appearance is never given. However, in a letter to Robert H. Barlow dated 10 September 1934 Smith stated it to be the offspring of the 'androgynous animal archetype' Zyhumé. The same letter also stated that the marriage of Yhoundeh and Nyarlathotep is mentioned in Parchments of Pnom.",
     "wikiUrl": "https://lovecraft.fandom.com/wiki/Yhoundeh"
   },
   {
+    "author": "Brian Lumley",
+    "canon": "Expanded Cthulhu Mythos",
+    "category": "great old one",
+    "id": 114,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/yibb-tstll.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/yibb-tstll2.jpg"
+    ],
+    "name": "yibb-tstll",
+    "nick": "the patient one",
+    "overview": "Yibb-Tstll is sometimes described as an immobile, dark, tentacled entity with a pulpy, alien head, detached eyes, and large bat wings under which countless Night-gaunts suck black milk from its innumerable breasts.",
+    "wikiUrl": "https://lovecraft.fandom.com/wiki/Yibb-Tstll"
+  },
+  {
     "author": "Howard Phillips Lovecraft",
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
-    "id": 113,
-    "img": [],
+    "id": 115,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/yig.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/yig2.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/yig3.jpg"
+    ],
     "name": "yig",
     "nicks": ["father of serpents"],
     "overview": "An odd, half-anthropomorphic devil of highly arbitrary and capricious nature. He was not wholly evil, and was usually quite well-disposed toward those who gave proper respect to him and his children, the serpents; but in the autumn he became abnormally ravenous, and had to be driven away by means of suitable rites.",
@@ -1530,8 +1789,11 @@
     "author": "Howard Phillips Lovecraft",
     "canon": "Lovecraft's Myths Cycle",
     "category": "great old one",
-    "id": 114,
-    "img": [],
+    "id": 116,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/yog-sothoth.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/yog-sothoth2.jpg"
+    ],
     "name": "yog-sothoth",
     "nicks": [
       "the lurker at the threshold",
@@ -1554,8 +1816,8 @@
     "author": "August Derleth",
     "canon": "Adjacent Works",
     "category": "great old one",
-    "id": 115,
-    "img": [],
+    "id": 117,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/zhar-&-lloigor.jpg"],
     "name": "zhar",
     "nicks": ["the twin obscenity", "the twin obscenities"],
     "overview": "undefined",
@@ -1565,8 +1827,11 @@
     "author": "Howard Phillips Lovecraft",
     "canon": "Lovecraft's Myths Cycle",
     "category": "lesser independent race",
-    "id": 116,
-    "img": [],
+    "id": 118,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/zoog.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/zoog2.jpg"
+    ],
     "name": "zoogs",
     "nicks": [],
     "overview": "The zoogs are a race of sentient forest-dwelling creatures that inhabit the Dreamlands of Earth. They are mortal enemies of cats, as they prey upon kittens and are preyed upon in return by adult cats. The aspect of a zoog calls to mind that of a tentacled-whiskered rodent with a grizzled or dun-colored fur. Its great eyes bestow upon it a most disquieting and peculiar gaze.",
@@ -1576,8 +1841,11 @@
     "author": "Clark Ashton Smith",
     "canon": "Lovecraft's Circle",
     "category": "great old one",
-    "id": 117,
-    "img": [],
+    "id": 119,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/zstylzhemghi.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/zstylzhemghi2.jpg"
+    ],
     "name": "Zstylzhemghi",
     "nicks": ["matriarch of the swarm", "zystulzhemgni"],
     "overview": "Whilst information on Zstylzhemghi is scarce, her epithet leads many to believe that she is some kind of monstrous insectoid creature. However, due to the nature of the Great Old Ones, her true appearance could be virtually anything.",
@@ -1587,8 +1855,8 @@
     "author": "Henry Kuttner",
     "canon": "Lovecraft's Circle",
     "category": "great old one",
-    "id": 118,
-    "img": [],
+    "id": 120,
+    "img": ["https://lovecraftapirest.fly.dev/api/images/zushakon.jpg"],
     "name": "zushakon ",
     "nicks": [
       "zulchaquon",
@@ -1605,8 +1873,11 @@
     "author": "Clark Ashton Smith",
     "canon": "Lovecraft's Circle",
     "category": "great old one",
-    "id": 119,
-    "img": [],
+    "id": 121,
+    "img": [
+      "https://lovecraftapirest.fly.dev/api/images/zvilpogghua.jpg",
+      "https://lovecraftapirest.fly.dev/api/images/zvilpogghua2.jpg"
+    ],
     "name": "zvilpogghua ",
     "nicks": [
       "feaster from the stars",
