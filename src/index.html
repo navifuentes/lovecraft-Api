@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>The Lovecraftian API</title>
+  </head>
+  <body class="bg-teal-950 text-white font-mono">
+    <header
+      class="text-5xl py-10 bg-gradient-to-t from-black/80 to-black/0 flex justify-center"
+    >
+      The Lovecraftian API
+    </header>
+    <main class="mx-20 my-10">
+      <section
+        class="text-lg border-2 border-gray-600 py-2 px-4 mb-4 rounded-lg"
+      >
+        <h2 class="mb-4 text-xl">Welcome to 'The Lovecraftian API'.</h2>
+        <p class="mb-4">
+          This API was crafted as a study-hobby project, born from a deep
+          fascination with the eldritch horrors and cosmic entities that inhabit
+          the mythos of H.P. Lovecraft.
+        </p>
+        <p class="mb-4">
+          Unravel the mysteries of the cosmos as you traverse through the realms
+          of Nyarlathotep, Cthulhu, Azathoth, and countless other eldritch
+          entities. Whether you seek to quench your curiosity or embark on a
+          scholarly pursuit of the arcane, this API stands ready to satiate your
+          thirst for forbidden knowledge.
+        </p>
+        <span
+          >Fell free to contribute to this Open Source Porject on
+          <a
+            class="text-gray-400 underline font-bold"
+            href="https://github.com/navifuentes/lovecraft-Api/tree/main"
+            >Github.</a
+          ></span
+        >
+      </section>
+      <section class="border-2 border-gray-600 py-2 px-4 mb-4 rounded-lg">
+        <h2 class="pb-2 text-lg"># What data can i get from this API?</h2>
+        <article>
+          <h3 class="pl-4 py-3 font-bold italic">* CREATURES</h3>
+          <p class="pl-4 pb-2">
+            You can get a list with all
+            <span class="italic">creatures</span> avaible in the api with the
+            request:
+          </p>
+          <p class="pl-4 pb-2">
+            >
+            <a href="https://lovecraftapirest.fly.dev/api/creatures"
+              >https://lovecraftapirest.fly.dev/api/creatures</a
+            >
+          </p>
+
+          <p class="pl-4 pb-2">
+            Get a specific <span class="italic">creature</span> data with the
+            <q class="italic">/:id</q> parameter in the url:
+          </p>
+          <p class="pl-4 pb-2">
+            >
+            <a href="https://lovecraftapirest.fly.dev/api/creatures/1"
+              >https://lovecraftapirest.fly.dev/api/creatures/:id</a
+            >
+          </p>
+        </article>
+        <article>
+          <h3 class="pl-4 py-3 font-bold italic">* RACES</h3>
+          <p class="pl-4 pb-2">
+            Request all <span class="italic">races</span> data with the
+            following route:
+          </p>
+          <p class="pl-4 pb-2">
+            >
+            <a href="https://lovecraftapirest.fly.dev/api/races"
+              >https://lovecraftapirest.fly.dev/api/races</a
+            >
+          </p>
+          <p class="pl-4 pb-2">
+            Get a specific race date with the
+            <q class="italic">/:id</q> parameter in the url:
+          </p>
+          <p class="pl-4 pb-2">
+            >
+            <a href="https://lovecraftapirest.fly.dev/api/races/1"
+              >https://lovecraftapirest.fly.dev/api/races/:id</a
+            >
+          </p>
+        </article>
+        <article>
+          <h3 class="pl-4 py-3 font-bold italic">* CATEGORIES</h3>
+          <p class="pl-4 pb-2">
+            Access to all the creatures within a specific category with the
+            following urls:
+          </p>
+          <p class="pl-6 pb-2 italic">Outer Gods:</p>
+          <p class="pl-4 pb-2">
+            >
+            <a href="https://lovecraftapirest.fly.dev/api/categories/outer-gods"
+              >https://lovecraftapirest.fly.dev/api/categories/outer-gods</a
+            >
+          </p>
+          <p class="pl-6 pb-2 italic">Great Old Ones:</p>
+          <p class="pl-4 pb-2">
+            >
+            <a
+              href="https://lovecraftapirest.fly.dev/api/categories/great-old-ones"
+              >https://lovecraftapirest.fly.dev/api/categories/great-old-ones</a
+            >
+          </p>
+          <p class="pl-6 pb-2 italic">Lesser Old Ones:</p>
+          <p class="pl-4 pb-2">
+            >
+            <a
+              href="https://lovecraftapirest.fly.dev/api/categories/lesser-old-ones"
+              >https://lovecraftapirest.fly.dev/api/categories/lesser-old-ones</a
+            >
+          </p>
+        </article>
+      </section>
+      <footer class="mt-10 flex justify-center gap-x-10">
+        <p>Built by Iván Fuentes.</p>
+        <a class="text-gray-400 font-bold" href="https://github.com/navifuentes"
+          >Visit My Github Profile</a
+        >
+      </footer>
+    </main>
+  </body>
+</html>
