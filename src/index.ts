@@ -1,4 +1,5 @@
 import express from "express";
+import path from "path";
 
 import creaturesRouter from "./routes/creatures";
 import racesRouter from "./routes/races";
@@ -14,6 +15,7 @@ app.get("/ping", (_, res) => {
   res.send("pong");
 });
 
+app.use("/api/images", express.static(path.join(__dirname, "images")));
 app.use("/api/creatures", creaturesRouter);
 app.use("/api/races", racesRouter);
 app.use("/api/categories", categoriesRouter);
