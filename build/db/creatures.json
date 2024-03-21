@@ -34,7 +34,7 @@
         "canon": "Expanded Cthulhu Mythos",
         "category": "great old one",
         "id": 3,
-        "img": [],
+        "img": ["https://lovecraftapirest.fly.dev/api/images/apocolothoth.jpg"],
         "name": "apocolothoth",
         "nicks": ["the moon god"],
         "overview": "undefined",
@@ -165,7 +165,7 @@
         "canon": "Lovecraft's Circle",
         "category": "lesser servitor race",
         "id": 11,
-        "img": [],
+        "img": ["https://lovecraftapirest.fly.dev/api/images/cat-of-sadoqua.jpg"],
         "name": "cat of sadoqua",
         "nicks": [],
         "overview": "undefined",
@@ -322,7 +322,10 @@
         "canon": "Lovecraft's Myths Cycle",
         "category": "outer god",
         "id": 21,
-        "img": [],
+        "img": [
+            "https://lovecraftapirest.fly.dev/api/images/darkness.jpg",
+            "https://lovecraftapirest.fly.dev/api/images/darkness2.jpg"
+        ],
         "name": "darkness",
         "nicks": [
             "magnum tenebrosum",
@@ -575,7 +578,8 @@
         "id": 35,
         "img": [
             "https://lovecraftapirest.fly.dev/api/images/gloon.jpg",
-            "https://lovecraftapirest.fly.dev/api/images/gloon2.jpg"
+            "https://lovecraftapirest.fly.dev/api/images/gloon2.jpg",
+            "https://lovecraftapirest.fly.dev/api/images/gloon-png.png"
         ],
         "name": "gloon",
         "nicks": ["the corrupter of flesh", "master of the temple", "glhuun"],
@@ -616,7 +620,9 @@
         "canon": "Lovecraft's Circle",
         "category": "great old one",
         "id": 38,
-        "img": [],
+        "img": [
+            "https://lovecraftapirest.fly.dev/api/images/god-of-the-red-flux.jpg"
+        ],
         "name": "god of the red flux",
         "nicks": [],
         "overview": "A vaporous red entity haunting the rainforest of Central Africa. It has the power to turn humans into zombie-like minions, the Tree-Men of M'bwa.",
@@ -642,7 +648,7 @@
         "canon": "Expanded Cthulhu Mythos",
         "category": "lesser servitor race",
         "id": 40,
-        "img": [],
+        "img": ["https://lovecraftapirest.fly.dev/api/images/gray-weaver.jpg"],
         "name": "gray weaver",
         "nicks": [],
         "overview": "undefined",
@@ -858,7 +864,7 @@
         "canon": "Expanded Cthulhu Mythos",
         "category": "lesser old one",
         "id": 53,
-        "img": [],
+        "img": ["https://lovecraftapirest.fly.dev/api/images/k'thuggoul.jpg"],
         "name": "k'thuggoul",
         "nicks": ["the grand shoggoth", "the slime-thing"],
         "overview": "Like a typical shoggoth, K'thugguol is described as a large, gelatinous, amoeboid creature with myriads of eyestalks. It dwells deep in the subterranean realm of grey-litten Y'qaa and guards the entrance of the pit inhabited by Ubbo-Sathla.",
@@ -869,7 +875,7 @@
         "canon": "Lovecraft's Circle",
         "category": "great old one",
         "id": 54,
-        "img": [],
+        "img": ["https://lovecraftapirest.fly.dev/api/images/krang.jpg"],
         "name": "krang",
         "nicks": ["the dead one"],
         "overview": "A monstrous brown, leathery, alien entity native to a mysterious planet, Krang currently slumbers within a gigantic mausoleum lost in the desert-wastes. It is set to guard a priceless treasure made up of the oldest decayed planets.",
@@ -976,7 +982,7 @@
         "canon": "Expanded Cthulhu Mythos",
         "category": "great old one",
         "id": 61,
-        "img": [],
+        "img": ["https://lovecraftapirest.fly.dev/api/images/mormo.jpg"],
         "name": "mormo",
         "nicks": ["the thousand-faced moon"],
         "overview": "Mormo is a shapeshifting female entity known for having three forms: The first form, is a mocking vampire-like maiden who may or may not be wearing Victorian Era style clothing; Second, a gorgon-like creature with tentacles for hair instead of snakes; And lastly, a large toad-like creature with tentacles for a face, akin to her servitors the Moon-beasts.",
@@ -1486,7 +1492,7 @@
         "canon": "Expanded Cthulhu Mythos",
         "category": "great old one",
         "id": 93,
-        "img": [],
+        "img": ["https://lovecraftapirest.fly.dev/api/images/sthanee.jpg"],
         "name": "sthanee",
         "nicks": ["the lost one"],
         "overview": "Manifesting as a gigantic marine horror with twelve serpentine limbs equipped with suckers similar to those found on an octopus, Sthanee also has a beard of tentacles.",
@@ -1555,7 +1561,11 @@
         "canon": "Lovecraft's Circle",
         "category": "lesser servitor race",
         "id": 99,
-        "name": "Tree-man of M'bwa",
+        "img": [
+            "https://lovecraftapirest.fly.dev/api/images/tree-man-of-m'bwa.jpg",
+            "https://lovecraftapirest.fly.dev/api/images/tree-man-of-m'bwa2.jpg"
+        ],
+        "name": "tree-man of M'bwa",
         "nicks": [],
         "overview": "The Tree-Men were the unfortunate victims of an evil undead being named M'bwa, an entity in service to the alien God of the Red Flux.",
         "wikiUrl": "https://lovecraft.fandom.com/wiki/Tree-Man_of_M%27bwa"
@@ -1620,7 +1630,7 @@
         "canon": "Expanded Cthulhu Mythos",
         "category": "lesser old one",
         "id": 103,
-        "img": [],
+        "img": ["https://lovecraftapirest.fly.dev/api/images/ubb.jpg"],
         "name": "ubb",
         "nicks": ["father of worms", "father ubb"],
         "overview": "A large, aquatic entity similar to a chthonian, Ubb is pale gray and slug-like with a large mouth full of horn-like teeth, ringed with tentacles.",
@@ -1662,7 +1672,7 @@
         "img": ["https://lovecraftapirest.fly.dev/api/images/voormi.jpg"],
         "name": "voormi",
         "nicks": [],
-        "overview": "The Voormis are described as three-toed, umber-colored, fur-covered humanoids[1] though they are carefully differentiated from their traditional enemies (the shaggier-haired but superficially similar Gnophkehs who worshiped the Great Old One Rhan-Tegoth). Both of them are further differentiated from true humans. The Voormis communicate by dog-like howls.",
+        "overview": "The Voormis are described as three-toed, umber-colored, fur-covered humanoids though they are carefully differentiated from their traditional enemies (the shaggier-haired but superficially similar Gnophkehs who worshiped the Great Old One Rhan-Tegoth). Both of them are further differentiated from true humans. The Voormis communicate by dog-like howls.",
         "wikiUrl": "https://lovecraft.fandom.com/wiki/Voormi"
     },
     {
@@ -1811,6 +1821,17 @@
         ],
         "overview": "Yog-Sothoth visually manifests as a mass of glowing orbs, with eyes or tendrils in some versions, and in others simply the orbs. It is heavily implied that Yog-Sothoth is omniscient, and is locked outside the universe, meaning he can know and see all of space-time all at once, which means there is no secret hidden from Yog-Sothoth.",
         "wikiUrl": "https://lovecraft.fandom.com/wiki/Yog-Sothoth"
+    },
+    {
+        "author": "Lin Carter",
+        "canon": "Expanded Cthulhu Mythos",
+        "category": "great old one",
+        "id": 0,
+        "img": ["https://lovecraftapirest.fly.dev/api/images/ythogtha.jpg"],
+        "name": "ythogtha",
+        "nicks": [],
+        "overview": "Ythogtha is the second son of Cthulhu and resembles a gigantic, humanoid frog, or Deep One, with but a single, huge eye in the center of his forehead like a cyclops. A dense mane and a beard of writhing tentacles grows from his head. Ythogtha is incredibly large.",
+        "wikiUrl": "https://lovecraft.fandom.com/wiki/Ythogtha"
     },
     {
         "author": "August Derleth",
